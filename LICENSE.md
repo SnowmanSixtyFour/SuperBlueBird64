@@ -1,6 +1,6 @@
-# Blue Bird 64 x2
+# Super BlueBird 64
 
-<b>Blue Bird 64 x2</b> is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
+<b>Super BlueBird 64</b> is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 All assets such as artwork and music are owned by their respective creators, and are not viewable under the public source code.
 
