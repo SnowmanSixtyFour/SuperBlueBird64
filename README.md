@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://snowman64.itch.io/bluebird64-x2">
+<a href="https://snowman64.itch.io/super-bluebird-64">
   <img align="center" src="repo/logo.png" alt="Super BlueBird 64">
 </a>
 
